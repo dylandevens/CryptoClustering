@@ -21,7 +21,11 @@ Below is a list of topics covered:
 * Hvplot composites
 
 
-
+todo: 
+* add a loop to compare these two methods and models to each other at one time
+*  then add extra unsupervised methods and models to this loop to easly compare data between models
+* compare this to actual price reports to see if I can get this to be a program to run on command using a csv from top trading stocks or coins from a specific day
+*  can add an advise if (example) one of the coins has a lower price change for longer time periods and a higher price change in last day or week / or mess with weights to find conclusions I would look for
 
 
 
