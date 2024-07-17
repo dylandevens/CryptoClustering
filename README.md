@@ -6,19 +6,19 @@ CryptoClustering  Challenge 19
 This challenge explored simple, unsupervised machine learning models. There was a main focus on KMeans to cluster the data, but the use of PCA (principle component analysis) was used as well. 
 
 Below is a list of topics covered:
-pandas
-hvplot.pandas
-sklearn.cluster  KMeans
-sklearn.decomposition  PCA
-sklearn.preprocessing  StandardScaler
+* pandas
+* hvplot.pandas
+* sklearn.cluster  KMeans
+* sklearn.decomposition  PCA
+* sklearn.preprocessing  StandardScaler
 
-pandas dataframes
-StandardScaler
-Hvplot scatter and line plots
-KMeans and elbow graphs
-models: define, fit, predict
-PCA and explained variance ratio
-Hvplot composites
+* pandas dataframes
+* StandardScaler
+* Hvplot scatter and line plots
+* KMeans and elbow graphs
+* models: define, fit, predict
+* PCA and explained variance ratio
+* Hvplot composites
 
 
 
